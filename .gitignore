@@ -171,3 +171,6 @@ cython_debug/
 .pypirc
 favorita/*.csv
 favorita/*.csv
+*.csv
+.ipynb_checkpoints/
+../*
