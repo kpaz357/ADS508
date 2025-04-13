@@ -47,9 +47,9 @@ Implementing major changes to supplier logistics or warehouse processes.
 Building a full-scale customer loyalty prediction model.  
 
 ## Data Sources:  
-Walmart Recruiting- Sales Forecasting 
+### Walmart Recruiting- Sales Forecasting 
     https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data 
-Rossman Store Sales 
+### Rossman Store Sales 
     https://www.kaggle.com/c/rossmann-store-sales/data 
-Corporaction Favorita Grocery Sales Forecasting 
+### Corporaction Favorita Grocery Sales Forecasting 
     https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting 
