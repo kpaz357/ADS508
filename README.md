@@ -56,5 +56,4 @@ Building a full-scale customer loyalty prediction model.
 
 
 ## Presentation
-####[ [https://www.canva.com/design/DAGkgYfhOn0/GJSZsx0-cizt15XkK04Ywg/view?utm_content=DAGkgYfhOn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6555662e58](https://www.canva.com/design/DAGkgYfhOn0/GJSZsx0-cizt15XkK04Ywg/view?utm_content=DAGkgYfhOn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6555662e58)](https://www.canva.com/design/DAGkgYfhOn0/GJSZsx0-cizt15XkK04Ywg/view?utm_content=DAGkgYfhOn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6555662e58)
-](https://www.canva.com/design/DAGkgYfhOn0/GJSZsx0-cizt15XkK04Ywg/view?utm_content=DAGkgYfhOn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6555662e58)
+#### https://www.canva.com/design/DAGkgYfhOn0/GJSZsx0-cizt15XkK04Ywg/view?utm_content=DAGkgYfhOn0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6555662e58 
