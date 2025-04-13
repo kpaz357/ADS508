@@ -20,8 +20,9 @@ To use this project, clone the repo on your device using the command below
 
 ## Technologies:
     Python 
-    AWS SageMaker(Athena, S3)
-    Sql
+    AWS SageMaker(Athena, S3, Pipelines)
+    AWS Glue (Crawler, Data Catalog)
+    SQL
     Powerpoint
     Word
     Excel
